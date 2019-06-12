@@ -183,6 +183,7 @@ void Graph :: interface(){
 
 }
 
+// Entry point
 int main(){
 	Graph g;
 	g.interface();
